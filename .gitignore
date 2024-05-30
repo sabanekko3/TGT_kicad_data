@@ -2,6 +2,7 @@
 fp-info-cache
 production/
 *.step
+!基板固定具/*.step
 CANバスハブ-backups/
 GPIO基板-backups/
 imu基板-backups/
