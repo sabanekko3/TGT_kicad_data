@@ -49,6 +49,10 @@ USB-CAN変換基板。
 
 ファームは[こちら](https://github.com/gakurobo-taro/USB-CANv2)
 
+## 通信プロトコル
+
+[こちら](https://github.com/gakurobo-taro/Gakurobo2024_protocol/blob/main/data_protocol.md)を参照。
+
 ## 回路に関係するデータ
 
 ### 基板固定具
